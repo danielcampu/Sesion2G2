@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    //Este comentario es para verificar que cambia la version para github
     public void onCheckboxClicked(View view) {
         int id = view.getId();
 
