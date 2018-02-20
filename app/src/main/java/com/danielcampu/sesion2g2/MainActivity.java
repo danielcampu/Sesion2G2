@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
     */
     }
 
+    //Este es el metodo para el radio button
     public void onButtonClicked(View view) {
         nombre = eNombre.getText().toString();
         eCorreo.setText(nombre);
